@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Amir Mohammad Shojaei 👋
+Biomedical Engineering & Psychology student · Front-end developer · CAD designer
+Where engineering meets the human mind — I build things for screens, machines and people.
+🧭 About me
+🎓 Studying Biomedical Engineering and Psychology — interested in tech that understands people
+🏆 1st place in SolidWorks competition at Abbaspour University · robotics award winner
+🛠️ Hands-on background: machining workshop, tool distribution, PC assembly — I know how real things get built
+🌐 Currently building real-world web projects for local businesses
+📚 Learning: JavaScript · C# · UI/UX
