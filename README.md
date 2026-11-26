@@ -29,6 +29,9 @@
 |---|---|---|---|
 | 🍔 **Deer Digital Menu** | Live digital menu for a real burger shop — dark, mobile-first design with an animated intro, used by actual customers | HTML · CSS · JS | **[🔗 Live demo](https://nvcod14.github.io/deerfood-menu/)** · [Code](https://github.com/nvcod14/deerfood-menu) |
 
+### ☕ Viuna Coffee & More
+Motion website & full digital menu for a cafe in Tehran  
+🔗 https://nvcod14.github.io/viuna-menu
 *More projects on the way — front-end, hardware and CAD.*
 
 ---
